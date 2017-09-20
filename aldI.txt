@@ -1,0 +1,394 @@
+1.basic
+	1-1 :
+		1. maju 1 petak
+		2. maju 1 petak
+		3. nyalakan lampu
+	1-2 :
+		1. maju 1 petak
+		2. maju 1 petak
+		3. hadap kiri
+		4. maju 1 petak
+		5. maju 1 petak
+		6. hadap kiri
+		7. maju 1 petak
+		8. maju 1 petak
+		9. nyalakan lampu
+	1-3 :
+		1. lompat 1 kali
+		2. hadap kanan
+		3. lompat 1 kali
+		4. hadap kanan
+		5. lompat 1 kali
+		6. nyalakan lampu
+	1-4 :
+		1. maju 1 petak
+		2. maju 1 petak
+		3. hadap kiri
+		4. lompat 1 kali
+		5. lompat 1 kali
+		6. lompat 1 kali
+		7. lompat 1 kali
+		8. nyalakan lampu
+	1-5 :
+		1. nyalakan lampu
+		2. lompat 1 kali
+		3. maju 1 kali
+		4. hadap kiri
+		5. maju 1 kali
+		6. nyalakan lampu
+		7. lompat 1 kali
+		8. hadap kiri
+		9. maju 1 kali
+		10. maju 1 kali
+		11. nyalakan lampu
+	1-6 :
+		1. lompat 1 kali
+		2. hadap kiri 
+		3. maju 1 kali 
+		4. lompat 1 kali 
+		5. nyalakan lampu 
+		6. hadap kiri 
+		7. maju 1 kali 
+		8. maju 1 kali 
+		9. hadap kanan 
+		10. lompat 1 kali 
+		11. maju 1 kali 
+		12. nyalakan lampu
+	1-7 : 
+		1. maju 1 kali 
+		2. hadap kiri 
+		3. lompat 1 kali 
+		4. nyalakan lampu 
+		5. lompat 1 kali 
+		6. nyalakan lampu 
+		7. hadap kiri 
+		8. lompat 1 kali 
+		9. nyalakan lampu 
+		10. hadap kiri 
+		11. lompat 1 kali 
+		12. nyalakan lampu
+	1-8 :
+		1. lompat 1 kali
+		2. lompat 1 kali
+		3. lompat 1 kali
+		4. nyalakan lampu
+		5. hadap kiri
+		6. lompat 1 kali
+		7. nyalakan lampu
+		8. hadap kanan
+		9. hadap kanan
+		10. lompat 1 kali
+		11. maju 1 kali
+		12. nyalakan lampu
+2.Procedures
+	2-1 :
+		1. maju 1 kali 
+		2. maju 1 kali 
+		3. maju 1 kali 
+		4. nyalakan lampu 
+		5. hadap kanan 
+		6. maju 1 kali 
+		7. maju 1 kali 
+		8. maju 1 kali 
+		9. nyalakan lampu 
+		10. hadap kanan 
+		11. maju 1 langkah 
+		12. panggil p1 
+    			 isi p1 : 
+				1. maju 1 kali 
+				2. maju 1 kali 
+				3. nyalakan lampu
+	2-2 :
+		1. maju 1 kali 
+		2hadap kiri 
+		3maju 1 kali 
+		4hadap kanan 
+		5maju 1 kali 
+		6hadap kiri 
+		7maju 1 kali 
+		8hadap kanan 
+		9maju 1 kali 
+		10hadap kiri 
+		11maju 1 kali
+		12panggil p1
+			isi p1 : 
+				1maju 1 kali 
+				2hadap kanan 
+				3maju 1 kali 
+				4hadap kiri 
+				5maju 1 kali 
+				6nyalakan lampu
+	2-3 : 
+		1maju 1 kali
+		2maju 1 kali
+		3maju 1 kali
+		4nyalakan lampu 
+		5hadap kiri 
+		6lompat 1 kali 
+		7hadap kiri 
+		8maju 1 kali 
+		9maju 1 kali 
+		10maju 1 kali 
+		11nyalakan lampu 
+		12panggil p1 
+			isi p1 :
+				1hadap kanan 
+				2lompat 1 kali 
+				3hadap kanan 
+				4maju 1 kali 
+				5maju 1 kali 
+				6maju 1 kali 
+				7nyalakan lampu
+	2-4 :
+		1panggil p1
+			isi p1 :
+				1p2
+				isi p2 :
+					1maju 1 kali
+					2nyalakan lampu
+					3maju 1 kali 
+					4nyalakan lampu
+					5maju 1 kali 
+					6nyalakan lampu
+					7maju 1 kali 
+					8nyalakan lampu
+		2hadap kanan 
+		3maju 1 kali 
+		4maju 1 kali 
+		5hadap kanan 
+		6panggil p1
+			isi p1 :
+				1p2
+				isi p2 : 
+					1maju 1 kali 
+					2nyalakan lampu
+					3maju 1 kali 
+					4nyalakan lampu
+					5maju 1 kali 
+					6nyalakan lampu
+					7maju 1 kali 
+					8nyalakan lampu
+		7hadap kiri 
+		8maju 1 kali 
+		9maju 1 kali 
+		10hadap kiri 
+		11panggi p1 
+			isi p1 :
+				1p2 
+				isi p2 :
+					1maju 1 kali 
+					2nyalakan lampu
+					3maju 1 kali 
+					4nyalakan lampu
+					5maju 1 kali 
+					6nyalakan lampu
+					7maju 1 kali 
+					8nyalakan lampu
+	2-5 :
+		1panggil p1 
+			isi p1 : 
+				1nyalakan lampu 
+				2lompat 1 kali
+				3nyalakan lampu 
+				4lompat 1 kali
+				5nyalakan lampu 
+				6lompat 1 kali
+				7nyalakan lampu 
+		2. panggil p2
+			isi p2 : 
+				1hadap kanan 
+				2hadap kanan 
+				3lompat 1 kali 
+				4lompat 1 kali
+				5lompat 1 kali
+				6lompat 1 kali 	
+				7hadap kanan 
+				8maju 1 kali 
+		3. maju 1 kali 
+		4. hadap kanan 
+		5. maju 1 kali
+		6. panggil p1 
+			isi p1 : 
+				1nyalakan lampu 
+				2lompat 1 kali
+				3nyalakan lampu 
+				4lompat 1 kali
+				5nyalakan lampu 
+				6lompat 1 kali
+				7nyalakan lampu 
+		7. panggil p2
+			isi p2 : 
+				1hadap kanan 
+				2hadap kanan 
+				3lompat 1 kali 
+				4lompat 1 kali
+				5lompat 1 kali
+				6lompat 1 kali 	
+				7hadap kanan 
+				8maju 1 kali 
+		8maju 1 kali 
+		9hadap kanan 
+		10maju 1 kali
+		11panggil p1 
+			isi p1 : 
+
+				1nyalakan lampu 
+				2lompat 1 kali
+				3nyalakan lampu 
+				4lompat 1 kali
+				5nyalakan lampu 
+				6lompat 1 kali
+				7nyalakan lampu 
+	2-6 :
+		1panggil p1 
+			isi p1 : 
+				1p2
+				isi p2 :
+					1maju 1 kali 
+					2nyalakan lampu 
+					3hadap kiri 
+					4maju 1 kali 
+					5nyalakan lampu 
+					6hadap kiri 
+					7maju 1 kali 
+					8nyalakan lampu
+					9hadap kiri 
+					10maju 1 kali 
+					11nyalakan lampu 
+					12hadap kiri 
+					13maju 1 kali 
+					14lompat 1 kali 
+					15lompat 1 kali
+		2maju 1 kali 
+		3hadap kiri 
+
+		4panggil p1 
+			isi p1 : 
+				1p2
+				isi p2 :
+					1maju 1 kali 
+					2nyalakan lampu 
+					3hadap kiri 
+					4maju 1 kali 
+					5nyalakan lampu 
+					6hadap kiri 
+					7maju 1 kali 
+					8nyalakan lampu
+					9hadap kiri 
+					10maju 1 kali 
+					11nyalakan lampu 
+					12hadap kiri 
+					13maju 1 kali 
+					14lompat 1 kali 
+					15lompat 1 kali
+		5maju 1 kali 
+		6hadap kiri
+
+		7panggil p1 
+			isi p1 : 
+				1p2
+				isi p2 :
+					1maju 1 kali 
+					2nyalakan lampu 
+					3hadap kiri 
+					4maju 1 kali 
+					5nyalakan lampu 
+					6hadap kiri 
+					7maju 1 kali 
+					8nyalakan lampu
+					9hadap kiri 
+					10maju 1 kali 
+					11nyalakan lampu 
+					12hadap kiri 
+					13maju 1 kali 
+					14lompat 1 kali 
+					15lompat 1 kali8maju 1 kali 
+		9hadap kiri 
+		10panggil p1 
+			isi p1 : 
+				1p2
+				isi p2 :
+					1maju 1 kali 
+					2nyalakan lampu 
+					3hadap kiri 
+					4maju 1 kali 
+					5nyalakan lampu 
+					6hadap kiri 
+					7maju 1 kali 
+					8nyalakan lampu
+					9hadap kiri 
+					10maju 1 kali 
+					11nyalakan lampu 
+					12hadap kiri 
+					13maju 1 kali 
+					14lompat 1 kali 
+					15lompat 1 kali
+3. loops
+	3-1:
+		1. panggil p1
+			isi p1 :
+				1. maju 1 kali
+				2. nyalakan lampu
+				3. panggil p1
+	3-2:
+		1.panggil p1
+			isi p1 :
+				1.lompat 1 kali 
+				2. nyalakan lampu
+				3. panggil p1
+	3-3
+		1.panggil p1
+			isi p1 : 
+				1. maju 1 langkah
+				2. nyalakan lampu
+				3. hadap kiri
+				4. maju 1 langkah
+				5. lompat 1 langkah
+				6. nyalakan lampu
+				7. lompat 1 kali
+				8. panggil p1
+	3-4
+		1. panggil p1
+			isi p1 :
+				1. nyalakan lampu
+				2. maju 1 langkah
+				3. hadap kiri
+				4. maju 1 langkah
+				5. nyalakan lampu
+				6. hadap kanan
+				7. maju 1 langkah
+				8. panggil p1
+	3-5
+		1. panggil p2
+			isi p2 : 
+				1. panggil p1
+				2. hadap kiri
+				3. panggil p1
+				4. hadap kiri
+				5. panggil p1
+				6. hadap kiri 
+				7. panggil p1
+			isi p1 :
+				1. nyalakan lampu 
+				2. lompat satu kali
+				3. nyalakan lampu
+				4. maju 1 langkah
+				5. nyalakan lampu
+				6. maju 1 langkah 
+				7. nyalakan lampu
+				8.lompat 1 kali
+	3-6
+		1.panggil p1
+			isi p1 :
+				1.panggil p2
+				2.nyalakan lampu
+				3.maju 1 langkah
+				4. panggil p1
+			isi p2 : 
+				1. nyalakan lampu
+				2. lompat 1 kali
+				3. hadap kiri
+				4. maju 1 lanhkah
+				5. nyalakan lampu
+				6. lompat 1 kali
+				7. lompat 1 kali
